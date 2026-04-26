@@ -213,4 +213,3 @@ header h1{
   .game{ grid-template-columns: repeat(3, 60px); grid-template-rows: repeat(3,60px); gap:8px; padding:8px; }
   .box{ width:60px; height:60px; font-size:1.6rem; border-radius:8px; }
 }
-    
